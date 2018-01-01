@@ -7,7 +7,7 @@
     "test": "tests"
   },
   "scripts": {
-    "start": "./run_test.sh",
+    "start": "./run_app.sh",
     "install-selenium": "./install_selenium.sh"
   },
   "author": "",
