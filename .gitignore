@@ -1,0 +1,6 @@
+browserstack.config.js
+node_modules
+captions/*.txt
+bin
+reports
+selenium-debug.log

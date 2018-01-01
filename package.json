@@ -1,0 +1,18 @@
+{
+  "name": "youtubecaptionextractor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "globalsModule.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "start": "./run_test.sh",
+    "install-selenium": "./install_selenium.sh"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nightwatch": "^0.9.19"
+  }
+}

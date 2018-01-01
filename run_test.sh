@@ -1,0 +1,1 @@
+./node_modules/.bin/nightwatch -c nightwatch.config.js
